@@ -8,18 +8,7 @@ The Lion
 
 This is for Class 67
 
-Changes made after adding it to staging area
-
-
-
-
-
-
-
-
-
-
-
+Changes made after adding it to staging area:
 
 git bash program:Anees@Anees-Laptop MINGW64 ~/Desktop/ZCoding Classes/C67
 $ cd ./MyStory
@@ -65,3 +54,6 @@ $ git commit -m "Adding Charaters and Story File for the project"
 
 Anees@Anees-Laptop MINGW64 ~/Desktop/ZCoding Classes/C67/MyStory (master)
 $
+
+
+THIS PART CONTAINS THE CHANGES MADE MANUALLY TO THE FILE ON REMOTE REPOSITARY
